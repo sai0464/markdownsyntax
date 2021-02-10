@@ -190,3 +190,5 @@ void loop() {
 - git pull remotename branchname
 ## inserting image
 ![myimage](https://github.com/sai0464/markdownsyntax/blob/master/photo1.jpg)
+## Inserting Videos
+[![](https://www.youtube.com/vi/glgN50DmvYE/0.jpg)](https://www.youtube.com/watch?v=glgN50DmvYE)
