@@ -169,3 +169,22 @@ void loop() {
 
 ## add college website
 [KITS](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+## git commands
+- git init
+- git status
+- git branch
+- git add filename
+- git remote
+- git remote -v 
+- git clone "url"
+- git remote add remotename "repolink"
+- git log
+- git log --online
+- git revet filename
+- git reset filename
+- git rm filename
+- git config user.name "username"
+- git config user.mail "usermail"
+- git commit -m "message"
+- git push remotename branchname
+- git pull remotename branchname
