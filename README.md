@@ -186,6 +186,5 @@ void loop() {
 - git config user.name "username"
 - git config user.mail "usermail"
 - git commit -m "message"
-    to commit changes along with message
-- git push remotename branchname
+ - git push remotename branchname
 - git pull remotename branchname
