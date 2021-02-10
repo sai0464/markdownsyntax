@@ -40,6 +40,6 @@ __*sampe text*__
 ```
  def fun():
     printf("welcome to github training");
- ## function calling
+## function calling
     fun()      
 ```
