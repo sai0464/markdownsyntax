@@ -188,3 +188,5 @@ void loop() {
 - git commit -m "message"
  - git push remotename branchname
 - git pull remotename branchname
+## inserting image
+![myimage](https://github.com/sai0464/markdownsyntax/blob/master/photo1.jpg)
