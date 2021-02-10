@@ -179,12 +179,13 @@ void loop() {
 - git clone "url"
 - git remote add remotename "repolink"
 - git log
-- git log --online
+- git log --oneline
 - git revet filename
 - git reset filename
 - git rm filename
 - git config user.name "username"
 - git config user.mail "usermail"
 - git commit -m "message"
+    to commit changes along with message
 - git push remotename branchname
 - git pull remotename branchname
