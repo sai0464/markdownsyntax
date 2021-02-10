@@ -37,9 +37,9 @@ __*sampe text*__
     * EEEA
     * EEEB
 ## code
-`
+```
  def fun():
     printf("welcome to github training");
  ## function calling
     fun()      
-`
+```
