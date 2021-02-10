@@ -4,3 +4,14 @@
  #### analysis
  ##### output observation 
  ###### conclusion
+**sample text**
+
+__sample__
+## Italic text
+*sample text*
+
+_sample text_
+## Bold & Italic
+**_sample text_**
+
+__*sampe text*__
