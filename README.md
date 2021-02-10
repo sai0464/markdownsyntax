@@ -163,3 +163,9 @@ void loop() {
 ```
 ## Links
 [google](https://www.google.com)
+
+## add gmaillink
+[gmai](https://mail.google.com/mail)
+
+## add college website
+[KITS](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
