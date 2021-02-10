@@ -17,7 +17,15 @@ _sample text_
 __*sampe text*__
 ## Blockquote
 >   dhjgfdhhfdkssdjkhfhgfjgjgfhsgjgvhdhfgdsgjjhgfgds;hf;sdsgfgjhdsgfgfgh
-## nested Blockquote
+## Nested Blockquote
 > dshfjdhjfdjfjdjfj
 >> dhfgg dhfg h kddhjf dcgx fhjcg
 >>> hfhdhgdhjcdfjjjdfkgfhghsshlsdaghhgdgsfhhghghhfg
+## Ordered List
+1.ece
+2.mech
+3.cse
+ 1. cseA
+ 2. CSEB
+4. civil
+5. EEE
