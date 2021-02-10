@@ -1,2 +1,6 @@
-# markdownsyntax
-Day 2 about markdown syntax
+ # Telegram based Home automation 
+ ## components
+ ### circuit diagram
+ #### analysis
+ ##### output observation 
+ ###### conclusion
