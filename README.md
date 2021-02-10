@@ -25,7 +25,7 @@ __*sampe text*__
 1.ece
 2.mech
 3.cse
- 1. cseA
- 2. CSEB
+  1. cseA
+  2. CSEB
 4. civil
 5. EEE
